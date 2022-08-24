@@ -14,5 +14,9 @@ with
 
 
 training accuracy --> 0.966
+
+
 validation accuracy --> 0.9627
+
+
 test accuracy ---> 0.674
